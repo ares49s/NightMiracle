@@ -1,4 +1,5 @@
 {
+  //online support
   648800: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Raft.zip",
   880940: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Pummel%20Party.zip",
   108600: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Project%20Zomboid.zip",
@@ -8,7 +9,6 @@
   962130: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Grounded.zip",
   285900: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/GangBeasts.zip",
   829660: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/NTTR.zip",
-  728880: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Overcooked2.zip",
   3527290: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/PEAK.zip",
   3241660: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/REPO.zip",
   2870920: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Restaurats.zip",
@@ -39,11 +39,11 @@
   2001120: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/SplitFiction.zip",
   2780980: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/LOCKDOWNProtocol.zip",
   1966720: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/LethalCompany.zip",
-  2408820: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/LumaIsland.zip",
   3585800: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/KeepDigging.zip",
   2070270: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Cloudheim.zip",
-  1243830: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/OvercookedAllYouCanEat.zip",
+  3533100: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/WrapHouseSimulator.zip",
   
+  //offline
   3405340: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Megabonk.zip",
   2799860: "https://files.catbox.moe/gs7ssp.zip"
 }

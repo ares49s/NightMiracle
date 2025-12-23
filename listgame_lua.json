@@ -1,5 +1,6 @@
 {
   //online support
+  815370: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/GreenHell.zip",
   648800: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Raft.zip",
   880940: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Pummel%20Party.zip",
   108600: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Project%20Zomboid.zip",
@@ -13,6 +14,7 @@
   323470: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/DBXENOVERSE.zip",
   516750: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/MySummerCar.zip",
   513710: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/SCUM.zip",
+  227300: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/EuroTruckSimulator2.zip",
   3527290: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/PEAK.zip",
   3241660: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/REPO.zip",
   2870920: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Restaurats.zip",
@@ -63,6 +65,10 @@
   3417410: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Storebound.zip",
   1763250: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/SWORN.zip",
   3237570: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/deliverypals.zip",
+  3333740: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/ExitTogether.zip",
+  1374490: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/RuneScapeDragonwilds.zip",
+  1435790: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/EscapeSimulator.zip",
+  2879840: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/EscapeSimulator2.zip",
   
   //offline
   3405340: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Megabonk.zip",

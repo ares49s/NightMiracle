@@ -12,27 +12,19 @@
     "tags": ["UBISOFT", "DENUVO"]
   },
   "552520": {
-    "downloadUrls": [
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry5.zip",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry5.z01"
-    ],
+	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCry5.zip",
     "tags": ["UBISOFT", "DENUVO"]
   },
   "939960": {
-    "downloadUrls": [
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryNewDawn.zip",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryNewDawn.z01",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryNewDawn.z02"
-    ],
+	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCryNewDawn.zip",
     "tags": ["UBISOFT", "DENUVO"]
   },
   "2369390": {
-    "downloadUrls": [
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry6.zip",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry6.z01",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry6.z02",
-      "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry6.z03"
-    ],
+	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/FarCry6.zip",
     "tags": ["UBISOFT", "DENUVO"]
+  }
+  "2050650": {
+    "downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/RE4.zip",
+    "tags": ["DENUVO"]
   }
 }

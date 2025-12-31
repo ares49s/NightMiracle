@@ -35,6 +35,14 @@
     "downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/RE4.zip",
     "tags": ["DENUVO"]
   },
+  "1113000": {
+	"downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/Persona4Golden.zip",
+    "tags": ["DENUVO"]
+  },
+  "1382330": {
+	"downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/Persona5Strikers.zip",
+    "tags": ["DENUVO"]
+  },
   "1687950": {
 	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/Persona5Royal.zip",
     "tags": ["DENUVO"]

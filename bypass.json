@@ -7,6 +7,10 @@
     "downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry3.zip",
     "tags": ["UBISOFT"]
   },
+  "233270": {
+    "downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCryBloodDragon.zip",
+    "tags": ["UBISOFT"]
+  },
   "298110": {
     "downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/FarCry4.zip",
     "tags": ["UBISOFT"]
@@ -33,6 +37,10 @@
   },
   "812140": {
 	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/ACOdyssey.zip",
+    "tags": ["UBISOFT", "DENUVO"]
+  },
+  "2208920": {
+	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/ACValhalla.zip",
     "tags": ["UBISOFT", "DENUVO"]
   },
   "2050650": {

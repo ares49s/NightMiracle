@@ -35,6 +35,14 @@
 	"downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACII.zip",
     "tags": ["UBISOFT"]
   },
+  "208480": {
+	"downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACIII.zip",
+    "tags": ["UBISOFT"]
+  },
+  "911400": {
+	"downloadUrl": "https://raw.githubusercontent.com/ares49s/NightMiracle/main/online_path/ACIIIre.zip",
+    "tags": ["UBISOFT"]
+  },
   "812140": {
 	"downloadUrl": "https://pub-2005a05476824d018ac4f8bee217467d.r2.dev/ACOdyssey.zip",
     "tags": ["UBISOFT", "DENUVO"]

@@ -70,8 +70,10 @@
   1435790: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/EscapeSimulator.zip",
   2879840: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/EscapeSimulator2.zip",
 
-  //offline
+  //offline (no online path)
   208480: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/ACIII.zip",
   3405340: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/Megabonk.zip",
+  1910150: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/WalkOfLife.zip",
+  1030300: "https://cdn.jsdelivr.net/gh/ares49s/NightMiracle@main/game_path/HollowKnightSilksong.zip",
 }
 
